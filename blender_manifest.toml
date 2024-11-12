@@ -1,0 +1,13 @@
+schema_version = "1.0.0"
+
+id = "batch_uv_rename"
+version = "1.0.0"
+name = "Batch UV Rename"
+tagline = "Utility to iteratively rename UV Maps"
+maintainer = "Bogdan"
+type = "add-on"
+
+blender_version_min = "4.2.0"
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
